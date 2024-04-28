@@ -1,0 +1,35 @@
+{
+    "name": "IPN Members App",
+    "short_name": "IPN Members App",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#654fa1",
+    "theme_color": "#654fa1",
+    "description": "This is the members application for the Intercollegiate Psychedelics Network.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Color Logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Color Logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Color Logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Color Logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
